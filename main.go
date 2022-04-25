@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"github.com/lukasaron/terraform-provider-stripe/stripe"
+	"github.com/harrisd19/terraform-provider-stripe/stripe"
 )
 
 func main() {
