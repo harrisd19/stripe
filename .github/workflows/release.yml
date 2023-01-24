@@ -54,5 +54,6 @@ jobs:
         run: ls .
       -
         name: Another check
-        run: pwd
+        run: ls /home/runner/work/terraform-provider-stripe/terraform-provider-stripe/dist
+        
 
