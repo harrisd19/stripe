@@ -52,3 +52,7 @@ jobs:
       -
         name: Another check
         run: ls .
+      -
+        name: Another check
+        run: pwd
+
